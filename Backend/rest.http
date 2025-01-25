@@ -1,0 +1,7 @@
+// install rest http client extension compulsary
+
+@rooturl = http://localhost:8080/api/v1/
+
+GET {{rooturl}}
+
+
